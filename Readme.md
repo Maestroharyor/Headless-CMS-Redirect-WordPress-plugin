@@ -1,6 +1,6 @@
 # Headless CMS Redirect
 
-Contributors: [ayomideodewale](https://profiles.wordpress.org/ayomideodewale/)
+Contributors: [Ayomide Odewale](https://github.com/maestroharyor)
 
 Tags: headless, cms, redirect, posts, pages
 Requires at least: 5.0
